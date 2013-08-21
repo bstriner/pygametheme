@@ -1,0 +1,6 @@
+name = Pygame Theme
+description = Theme for Pygame
+core = 7.x
+base theme = zen
+stylesheets[all][] = pygametheme.css
+scripts[] = pygametheme.js
